@@ -40,7 +40,7 @@ public class AppTest
       }
 
     @Test
-    @DisplayName("Multiple test 2")
+    @DisplayName("Multiple1 test 2")
     void testMultiple1()
     {
         CalculatorUtil cu = new CalculatorUtil();
